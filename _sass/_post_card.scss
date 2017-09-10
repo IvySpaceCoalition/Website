@@ -1,0 +1,25 @@
+.card {
+  /* Mask: */
+  background: #FFFFFF;
+  box-shadow: 0 4px 12px 0 rgba(0,0,0,0.17);
+  border-radius: 6px;
+  width: 25%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  height: 280px;
+}
+
+.card-image {
+  width: 100%;
+  border-radius: 6px 6px 0 0;
+  max-height: 100%;
+}
+
+.card-image-container {
+
+}
+
+.card-text {
+  padding-left: 10px;
+}

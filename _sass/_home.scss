@@ -1,0 +1,24 @@
+.hero {
+  height: 95vh;
+  background-image: url('../assets/images/space.JPG');
+  background-position: center;
+  background-size: cover;
+}
+
+.title-container {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
+.hero-title {
+  color: #FFFFFF;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.50);
+  font-size: 80px;
+}
+
+.card-container {
+  margin-top: -140px;
+  display: flex;
+  flex-flow: row;
+}

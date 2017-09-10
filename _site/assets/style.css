@@ -234,3 +234,17 @@ code { color: #DC3918; font-size: 16px; padding: 1px 4px; }
 
 .link-primary { font-weight: bold; text-decoration: none; }
 .link-primary:hover { color: #E74727; text-decoration: none; }
+
+.hero { height: 95vh; background-image: url("../assets/images/space.JPG"); background-position: center; background-size: cover; }
+
+.title-container { display: flex; height: 100%; align-items: center; }
+
+.hero-title { color: #FFFFFF; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); font-size: 80px; }
+
+.card-container { margin-top: -140px; display: flex; flex-flow: row; }
+
+.card { /* Mask: */ background: #FFFFFF; box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.17); border-radius: 6px; width: 25%; display: flex; flex-flow: column; justify-content: center; height: 280px; }
+
+.card-image { width: 100%; border-radius: 6px 6px 0 0; max-height: 100%; }
+
+.card-text { padding-left: 10px; }
