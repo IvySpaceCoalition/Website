@@ -241,10 +241,14 @@ code { color: #DC3918; font-size: 16px; padding: 1px 4px; }
 
 .hero-title { color: #FFFFFF; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); font-size: 80px; }
 
-.card-container { margin-top: -140px; display: flex; flex-flow: row; }
+.card-container { margin-top: -140px; display: flex; flex-flow: row; justify-content: space-evenly; max-width: 70em; flex-wrap: wrap; }
 
-.card { /* Mask: */ background: #FFFFFF; box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.17); border-radius: 6px; width: 25%; display: flex; flex-flow: column; justify-content: center; height: 280px; }
+.card { /* Mask: */ background: #FFFFFF; box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.17); border-radius: 6px; width: 240px; display: flex; flex-flow: column; justify-content: center; height: 320px; margin-bottom: 15px; }
 
-.card-image { width: 100%; border-radius: 6px 6px 0 0; max-height: 100%; }
+.card-image { border-radius: 6px 6px 0 0; height: 100%; width: 100%; object-fit: cover; }
 
-.card-text { padding-left: 10px; }
+.card-image-container { height: 50%; }
+
+.card-text { padding-left: 10px; height: 50%; }
+
+.footer-container { display: flex; flex-flow: row; }

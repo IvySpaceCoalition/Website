@@ -23,12 +23,12 @@
         </div>
 
         <div class="title-container container mx-auto px-2 mb-2 header-text">
-          <h1 class="hero-title inline-block col-9 sm-width-full py-4 mt-3 header-title">Inter-Ivy Space Coalition</h1>
+          <h1 class="hero-title inline-block col-9 sm-width-full py-4 mt-3 header-title animated fadeInUp">Inter-Ivy Space Coalition</h1>
         </div>
       </header>
 
-      <div class="card-container container mx-auto px-2">
-        {% for post in site.posts %}
+      <div class="card-container mx-auto px-2">
+        {% for post in site.posts limit 4 %}
           {% include post_card.html %}
         {% endfor %}
       </div>

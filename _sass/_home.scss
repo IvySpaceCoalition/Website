@@ -21,4 +21,11 @@
   margin-top: -140px;
   display: flex;
   flex-flow: row;
+  justify-content: space-evenly;
+  max-width: 70em;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1023px) {
+
 }
