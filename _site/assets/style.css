@@ -84,8 +84,7 @@ code { color: #DC3918; font-size: 16px; padding: 1px 4px; }
 .border-0 { border: 0; }
 
 /* Theme color utilities */
-.header-background { background-color: #181818; }
-
+/* .header-background { background-color: $color-background; } */
 .header-border { border-color: #fff; }
 
 .header-title { color: #fff; }
@@ -235,13 +234,23 @@ code { color: #DC3918; font-size: 16px; padding: 1px 4px; }
 .link-primary { font-weight: bold; text-decoration: none; }
 .link-primary:hover { color: #E74727; text-decoration: none; }
 
-.hero { height: 95vh; background-image: url("../assets/images/space.JPG"); background-position: center; background-size: cover; }
+.hero { height: 95vh; }
+
+.hero:before { content: ""; position: absolute; left: 0; right: 0; z-index: -1; display: block; background-image: url("../assets/images/space.JPG"); background-position: center; background-size: cover; filter: contrast(0.7); width: 100%; height: 100%; }
 
 .title-container { display: flex; height: 100%; align-items: center; }
 
 .hero-title { color: #FFFFFF; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); font-size: 80px; }
 
 .card-container { margin-top: -140px; display: flex; flex-flow: row; justify-content: space-evenly; max-width: 70em; flex-wrap: wrap; }
+
+.home-section { display: flex; flex-flow: column; justify-content: center; align-items: center; padding: 20px; }
+
+.section-content { max-width: 550px; display: flex; flex-flow: column; justify-content: center; align-items: center; }
+
+.logo-container { display: flex; flex-flow: row; flex-wrap: wrap; justify-content: center; align-items: center; padding: 20px; }
+
+.logo { width: 150px; height: 150px; }
 
 .card { /* Mask: */ background: #FFFFFF; box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.17); border-radius: 6px; width: 240px; display: flex; flex-flow: column; justify-content: center; height: 320px; margin-bottom: 15px; }
 
