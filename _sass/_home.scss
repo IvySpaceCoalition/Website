@@ -30,6 +30,23 @@
   font-size: 80px;
   font-family: "Oswald", "Avenir", san-serif;
   text-align: center;
+  animation-delay: 1s;
+}
+
+@keyframes fadeInDownCustom {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -10%, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.fadeInDownCustom {
+  animation-name: fadeInDownCustom;
 }
 
 .card-container {
