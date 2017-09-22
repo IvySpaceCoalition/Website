@@ -242,7 +242,7 @@ code { color: #DC3918; font-size: 16px; padding: 1px 4px; }
 
 .hero-title { color: #FFFFFF; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); font-size: 80px; font-family: "Avenir"; }
 
-.card-container { margin-top: -140px; display: flex; flex-flow: row; justify-content: space-evenly; max-width: 70em; flex-wrap: wrap; }
+.card-container { margin-top: -140px; display: flex; flex-flow: row; justify-content: space-around; max-width: 70em; flex-wrap: wrap; }
 
 .home-section { display: flex; flex-flow: column; justify-content: center; align-items: center; padding: 20px; }
 
