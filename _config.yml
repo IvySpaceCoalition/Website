@@ -16,9 +16,9 @@
 title: Ivy Space Coalition
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Ivy Space Coalition is a group of students who put large hunks of metal
+  into space at high speeds, enjoy blowing things up, and who are dedicated
+  to answer the fundamental question: how do planes stay up?
 #This should and probs will change
 # baseurl: "/Website" # the subpath of your site, e.g. /blog
 # url: "https://ivyspacecoalition.github.io/Website" # the base hostname & protocol for your site, e.g. http://example.com

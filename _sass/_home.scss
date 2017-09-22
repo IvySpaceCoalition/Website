@@ -21,13 +21,15 @@
   display: flex;
   height: 100%;
   align-items: center;
+  justify-content: center;
 }
 
 .hero-title {
   color: #FFFFFF;
   text-shadow: 0 2px 4px rgba(0,0,0,0.50);
   font-size: 80px;
-  font-family: "Avenir"
+  font-family: "Oswald", "Avenir", san-serif;
+  text-align: center;
 }
 
 .card-container {
@@ -37,6 +39,11 @@
   justify-content: space-around;
   max-width: 70em;
   flex-wrap: wrap;
+}
+
+.custom-nav {
+  position: absolute;
+  right: 0;
 }
 
 .home-section {
@@ -70,6 +77,15 @@
   height: 150px;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 465px) {
+  .card-container {
+    margin-top: -60px;
+  }
+}
 
+
+@media (max-width: 355px) {
+  .hero-title {
+    font-size: 70px;
+  }
 }
