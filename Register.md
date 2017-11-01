@@ -4,4 +4,4 @@ title: Register
 permalink: /register/
 ---
 
-Register for the things!
+## _Stay tuned! Registration will open early 2018_
