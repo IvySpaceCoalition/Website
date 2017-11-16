@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Making Things Go Fast
-*This is an organization for engineers, scientists, and rocketeers from all walks of life.* That's it--not networking or resume building or networking. We're all interested in making mass go fast and high--the ISC is dedicated to sharing research and projects to further our collective goals.
+*This is an organization for engineers, scientists, and rocketeers from all walks of life.* That's it--not resume padding or bureaucratic nonsense. We're all interested in making mass go fast and high--the ISC is dedicated to sharing research and projects to further our collective goals.
 
 ## The Conference
 
