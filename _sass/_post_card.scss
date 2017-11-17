@@ -9,6 +9,10 @@
   justify-content: center;
   height: 320px;
   margin-bottom: 15px;
+  /*For placeholder*/
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
 }
 
 .card-image {
@@ -16,13 +20,16 @@
   height: 100%;
   width: 100%;
   object-fit: cover;
+  display: none /*to disable*/
 }
 
 .card-image-container {
   height: 50%;
+  display: none /*to disable*/
 }
 
 .card-text {
   padding-left: 10px;
   height: 50%;
+  display: none /*to disable*/
 }

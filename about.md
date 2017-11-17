@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-## Making Things Go Fast
-*This is an organization for engineers, scientists, and rocketeers from all walks of life.* That's it--not resume padding or bureaucratic nonsense. We're all interested in making mass go fast and high--the ISC is dedicated to sharing research and projects to further our collective goals.
+## Who We Are
+The Inter-Ivy Space Coalition (IISC) is an organization that represents a large constituency of space-related organizations spanning across the entire Ivy League.  Currently, although each of the respective Ivy League institutions possess one or more student project teams or clubs focusing on space technology and exploration, the project teams and clubs all remain relatively disconnected with one another, even within a given school’s campus.  Bridging this intra-Ivy and inter-Ivy disconnect is the primary goal of the Inter-Ivy Space Coalition.  
+
+Our aim is to connect students and organizations across the Ivy League that have an interest in aerospace engineering, space exploration, and improved space technology, thereby fostering a greater sense of space community through shared connections, conversations, and experiences. In partnering together as a League, not only do students have the unique opportunity to individually benefit from one another’s knowledge in expanding their respective clubs and project teams, but they also have the chance to revolutionize the fast-growing space community collectively.
+
+The IISC has already coordinated multiple inter-Ivy speaker sessions via livestream technology and is excited to host the 1st Annual Inter-Ivy Space Coalition Conference.  The conference, which will be held at Yale University in April 2018, will offer each of our member groups a platform through which to meet and connect with other students and leaders in the space industry, thereby serving as a premier hub for students interested in aerospace, space technology, and other space-related fields to meet one another and discuss potential collaborative project ideas.  
+
 
 ## The Conference
 

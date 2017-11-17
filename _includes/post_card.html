@@ -1,5 +1,6 @@
 <!-- Renders image, post date, title, and snippet of text in a card -->
-<div class="card">
+
+<img class="card" src={{post.headerImage | default: "http://www.spacex.com/sites/spacex/files/styles/featured_news_widget_image/public/field/image/dragoncrew.8k.jpg?itok=-2W4puKw"}}>
   <div class="card-image-container">
     <img class="card-image"
          src={{post.headerImage | default: "http://www.spacex.com/sites/spacex/files/styles/featured_news_widget_image/public/field/image/dragoncrew.8k.jpg?itok=-2W4puKw"}}
@@ -15,4 +16,4 @@
       <p>{{ post.content | strip_html | truncatewords:10 }}</p>
     {% endif %}
   </div>
-</div>
+</img>
