@@ -1,0 +1,19 @@
+<!-- Renders image, post date, title, and snippet of text in a card -->
+
+<img class="card" src={{post.headerImage | default: "http://www.spacex.com/sites/spacex/files/styles/featured_news_widget_image/public/field/image/dragoncrew.8k.jpg?itok=-2W4puKw"}}>
+  <div class="card-image-container">
+    <img class="card-image"
+         src={{post.headerImage | default: "http://www.spacex.com/sites/spacex/files/styles/featured_news_widget_image/public/field/image/dragoncrew.8k.jpg?itok=-2W4puKw"}}
+    />
+  </div>
+  <div class="card-text">
+    <a class="no-underline h8 bold text-accent" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}</a>
+    <h2 class="h3 lh-condensed col-9 mt-0">
+      <a class="link-primary" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    {% assign title_count  = post.title | number_of_words %}
+    {% if title_count < 5 %}
+      <p>{{ post.content | strip_html | truncatewords:10 }}</p>
+    {% endif %}
+  </div>
+</img>

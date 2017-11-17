@@ -1,0 +1,19 @@
+.bio-container {
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.bio-img {
+	width: 200px;
+	border-radius: 100%;
+}
+
+.bio-txt {
+	font-size: 15px !important;
+}
+
+.bio {
+	width: 25%;
+}

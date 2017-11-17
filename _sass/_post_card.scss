@@ -1,0 +1,35 @@
+.card {
+  /* Mask: */
+  background: #FFFFFF;
+  box-shadow: 0 4px 12px 0 rgba(0,0,0,0.17);
+  border-radius: 6px;
+  width: 240px;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  height: 320px;
+  margin-bottom: 15px;
+  /*For placeholder*/
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+}
+
+.card-image {
+  border-radius: 6px 6px 0 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  display: none /*to disable*/
+}
+
+.card-image-container {
+  height: 50%;
+  display: none /*to disable*/
+}
+
+.card-text {
+  padding-left: 10px;
+  height: 50%;
+  display: none /*to disable*/
+}
