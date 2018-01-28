@@ -15,7 +15,7 @@
           <img class="home-header-logo" src="/assets/images/Transparent.png"/>
           <ul class="list-reset custom-nav py-1 header-text font-smoothing">
             {% for my_page in site.pages %}
-              {% if my_page.title %}
+              {% if my_page.title and my_page.title != "News" %}
               <li class="inline-block">
                 <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
               </li>

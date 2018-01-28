@@ -3,7 +3,7 @@ layout: post
 title:  "Rocket Does a Thing"
 date:   2017-09-13 16:48:00 -0400
 categories: jekyll rockets
-headerImage: https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Ffd65b8542f16f963bd555c8623ad52f4%2F205045607%2Fnasa-sls-rocket-tests-2017-03-13-01-ed.jpg&client=cbc79c14efcebee57402&signature=fdacf381c81bc1b679678d0080cf251ea98ae39a
+headerImage: https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA21354_hires.jpg
 ---
 ![rocket doing thing](https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Ffd65b8542f16f963bd555c8623ad52f4%2F205045607%2Fnasa-sls-rocket-tests-2017-03-13-01-ed.jpg&client=cbc79c14efcebee57402&signature=fdacf381c81bc1b679678d0080cf251ea98ae39a)
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Space Sushi!"
 date:   2017-09-13 17:43:00 -0400
 categories: jekyll rockets
-headerImage: https://reprog.files.wordpress.com/2012/01/sushi-in-space.jpeg
+headerImage: https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA21975_hires.jpg
 ---
 Awwww crap, space sushi!!
 

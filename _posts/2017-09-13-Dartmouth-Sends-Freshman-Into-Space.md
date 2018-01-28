@@ -3,7 +3,7 @@ layout: post
 title:  "Dartmouth Sends Freshman Into Space"
 date:   2017-09-13 17:45:00 -0400
 categories: jekyll rockets
-headerImage: https://admissions.dartmouth.edu/sites/admissions.dartmouth.edu/files/styles/slideshow_image/public/class-of-2020.jpg?itok=kwYPMEn-
+headerImage: https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA21900_hires.jpg
 ---
 lol
 
