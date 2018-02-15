@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: register
 title: Register
 permalink: /register/
 ---
