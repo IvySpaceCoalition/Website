@@ -14,7 +14,7 @@ The IISC has already coordinated multiple inter-Ivy speaker sessions via livestr
 
 ## The Conference
 
-The ISC’s inaugural conference will be an excellent and fun opportunity for students from across the Ivy League schools to meet and build meaningful relationships with peers from the other institutions, learn more about advances in aerospace technology from industry experts, present their projects and research to a broader audience, and network with potential employers.
+The IISC’s inaugural conference will be an excellent and fun opportunity for students from across the Ivy League schools to meet and build meaningful relationships with peers from the other institutions, learn more about advances in aerospace technology from industry experts, present their projects and research to a broader audience, and network with potential employers. The deadline for registration is March 23rd.
 
 ### Conference Topics
 
